@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvujoena.github.io/Vse/sitemap_index.txt
+Sitemap: https://uvujoena.github.io/Zty/sitemap_index.txt
+Sitemap: https://uvujoena.github.io/gIT/sitemap_index.txt
+Sitemap: https://uvujoena.github.io/kmF/sitemap_index.txt
